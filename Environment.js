@@ -1,0 +1,1 @@
+GlobalObject = window || global;
