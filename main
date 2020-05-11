@@ -1,9 +1,9 @@
 (new function(g){
-g.MizLib = g.MizLib || new function(){
+g.mizLib = g.mizLib || new function(){
   this.parent = g;
 };
-g.MizLib.TestEnviroment = g.MizLib.TestEnviroment || new function (){
-  this.parent = g.MizLib;
+g.mizLib.testEnviroment = g.mizLib.testEnviroment || new function (){
+  this.parent = g.mizLib;
   
   
   
