@@ -1,0 +1,13 @@
+(new function(g){
+g.MizLib = g.MizLib || new function(){
+  this.parent = g;
+};
+g.MizLib.TestEnviroment = g.MizLib.TestEnviroment || new function (){
+  this.parent = g.MizLib;
+  
+  
+  
+  
+  
+}
+}(window || gloval));
